@@ -31,3 +31,5 @@ jobs:
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+          # 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
