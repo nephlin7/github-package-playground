@@ -1,5 +1,11 @@
 # @nephlin7/my-first-package
 
+## 2.0.3
+
+### Patch Changes
+
+- 7a90d20: Change console.log message
+
 ## 2.0.2
 
 ### Patch Changes
