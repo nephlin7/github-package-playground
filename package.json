@@ -17,6 +17,9 @@
   ],
   "author": "@nephlin7",
   "license": "ISC",
+  "publishConfig": {
+    "@nephlin7:registry": "https://npm.pkg.github.com"
+  },
   "bugs": {
     "url": "https://github.com/nephlin7/github-package-playground/issues"
   },
