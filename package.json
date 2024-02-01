@@ -1,6 +1,6 @@
 {
   "name": "@nephlin7/my-first-package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Learn how to publish npm packages",
   "main": "index.js",
   "scripts": {
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/nephlin7/github-package-playground/issues"
   },
-  "homepage": "https://github.com/nephlin7/github-package-playground#readme"
+  "homepage": "https://github.com/nephlin7/github-package-playground#readme",
+  "dependencies": {
+    "@changesets/cli": "^2.27.1"
+  }
 }
