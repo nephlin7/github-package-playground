@@ -1,0 +1,24 @@
+{
+  "name": "@nephlin7/my-first-package",
+  "version": "1.0.0",
+  "description": "Learn how to publish npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nephlin7/github-package-playground.git"
+  },
+  "keywords": [
+    "test",
+    "npm",
+    "github"
+  ],
+  "author": "@nephlin7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nephlin7/github-package-playground/issues"
+  },
+  "homepage": "https://github.com/nephlin7/github-package-playground#readme"
+}
