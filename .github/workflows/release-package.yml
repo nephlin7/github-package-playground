@@ -30,7 +30,7 @@ jobs:
           registry-url: https://npm.pkg.github.com/
 
       - name: Install Dependencies
-        run: npm
+        run: yarn
 
       - name: Create Release Pull Request or Publish to npm
         id: changesets
