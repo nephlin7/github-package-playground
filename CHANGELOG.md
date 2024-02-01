@@ -1,5 +1,11 @@
 # @nephlin7/my-first-package
 
+## 3.2.0
+
+### Minor Changes
+
+- 54b32cc: test changelog/release
+
 ## 3.1.0
 
 ### Minor Changes
