@@ -1,5 +1,11 @@
 # @nephlin7/my-first-package
 
+## 3.0.0
+
+### Major Changes
+
+- 6345168: Update all deps, testing major releases
+
 ## 2.0.3
 
 ### Patch Changes
