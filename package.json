@@ -1,6 +1,6 @@
 {
   "name": "@nephlin7/my-first-package",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Learn how to publish npm packages",
   "main": "index.js",
   "scripts": {
