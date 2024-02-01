@@ -1,6 +1,6 @@
 {
   "name": "@nephlin7/my-first-package",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "Learn how to publish npm packages",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "author": "@nephlin7",
   "license": "ISC",
   "publishConfig": {
-    "@nephlin7:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "bugs": {
     "url": "https://github.com/nephlin7/github-package-playground/issues"
