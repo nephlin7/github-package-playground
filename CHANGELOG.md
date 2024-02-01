@@ -1,5 +1,11 @@
 # @nephlin7/my-first-package
 
+## 3.1.0
+
+### Minor Changes
+
+- 42fd3fa: change workflow
+
 ## 3.0.0
 
 ### Major Changes
