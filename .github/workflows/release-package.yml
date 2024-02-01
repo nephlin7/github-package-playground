@@ -28,12 +28,6 @@ jobs:
         with:
           title: "chore: release package"
           commit: "chore: release package"
+          publish: npm run release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Publish
-        if: steps.changesets.outputs.hasChangesets == 'false'
-        # You can do something when a publish should happen.
-        run: npm run release
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
