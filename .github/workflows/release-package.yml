@@ -24,6 +24,7 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
+      # This is used to indicated changeset action to use the npm.pkg.github.com registry
       - name: Creating .npmrc
         run: |
           cat << EOF > "$HOME/.npmrc"
