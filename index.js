@@ -1,1 +1,1 @@
-console.log("Hello, World!, This is my first github package :)");
+console.log("Hello, World!, This is my first github package :). Im really happy.");
