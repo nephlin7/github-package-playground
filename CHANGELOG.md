@@ -1,5 +1,11 @@
 # @nephlin7/my-first-package
 
+## 3.2.1
+
+### Patch Changes
+
+- d65ca65: Testing
+
 ## 3.2.0
 
 ### Minor Changes
